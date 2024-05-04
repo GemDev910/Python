@@ -1,0 +1,1 @@
+num = int (input("Masukkan Angka Ganjil"))
